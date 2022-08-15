@@ -1,2 +1,3 @@
 # DOM-Manipulation
-DOM Manipulation for The Odin Project
+DOM Manipulation exercise for The Odin Project
+
